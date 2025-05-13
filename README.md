@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm João Pedro Ferreira Frota</h1>
+<h1 align="center">Olá 👋, Meu nome é João Pedro Ferreira Frota</h1>
 <h3 align="center">Profissional com atuação em Cibersegurança, Redes, Suporte Técnico e Automação, com experiência em monitoramento (Zabbix, Grafana), análise e resposta a incidentes, testes de intrusão (pentest), configuração de equipamentos Cisco/MikroTik e gestão de ambientes críticos. Certificado por Cisco e Fortinet, com base técnica sólida e formação contínua na área.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morteerror404&label=Profile%20views&color=0e75b6&style=flat" alt="morteerror404" /> </p>
