@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morteerror404&label=Profile%20views&color=0e75b6&style=flat" alt="morteerror404" /> </p>
 
-- 🔭 Atualmente Trabalhando ... [Gestão de estoque com alexa](https://github.com/morteerror404/CMDB)
+- 🔭 Atualmente Trabalhando em [Gestão de estoque com alexa](https://github.com/morteerror404/CMDB)
 
 - 🌱 Estou estudando **DevSecOps, Segurança em Cloud, Governança Corporativa**
 
