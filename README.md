@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morteerror404&label=Profile%20views&color=0e75b6&style=flat" alt="morteerror404" /> </p>
 
-- 🔭 Atualmente Trabalhando em [Gestão de estoque com alexa](https://github.com/morteerror404/CMDB)
+- 🔭 Atualmente Trabalhando em [Uma documentação universal para pentest]([https://github.com/morteerror404/CMDB](https://github.com/morteerror404/BibliaDoPentestBR))
 
-- 🌱 Estou estudando **DevSecOps, Segurança em Cloud, Governança Corporativa**
+- 🌱 Estou estudando ** Linguagens de Baixo Nível, Segurança em Cloud, Injeção de Processos**
 
 - 👯 Áreas de Interesse **Threat Inteligence, Low Level Pentest, IOT Pentest, SIEM & IAM Manager**
 
 - 👨‍💻 Conheça mais [https://linktr.ee/JoaoPedroFrota](https://linktr.ee/JoaoPedroFrota)
 
-- 🔧 Lugares onde aprendi **DELL, PUC-PR, CISCO, TryHackMe, HackTheBox, CyberWarfareLive**
+- 🔧 Lugares onde aprendi **DELL, PUC-PR, CISCO, TryHackMe, HackTheBox, CyberWarfareLive, Cursos de fontes duvidosas**
 
 - 📫 E-mail **joaopedrofrotacontato@gmail.com**
 
