@@ -8,7 +8,7 @@
 
 - 🌱 Estou estudando **Linguagens de Baixo Nível, Segurança em Cloud, Injeção de Processos**
 
-- 👯 Áreas de Interesse **Threat Inteligence, Low Level Pentest, IOT Pentest, SIEM & IAM Manager**
+- 👯 Áreas de Interesse **Threat Inteligence, Low Level Pentest, IOT Pentest, Pentest Web**
 
 - 👨‍💻 Conheça mais [https://linktr.ee/JoaoPedroFrota](https://linktr.ee/JoaoPedroFrota)
 
