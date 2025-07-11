@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morteerror404&label=Profile%20views&color=0e75b6&style=flat" alt="morteerror404" /> </p>
 
-- 🔭 Atualmente Trabalhando em [Na Bibliblia do Pentest](https://github.com/morteerror404/BibliaDoPentestBR)
+- 🔭 Atualmente Trabalhando em [Bibliblia do Pentest](https://github.com/morteerror404/BibliaDoPentestBR) e na [Automação do meu ARCH/BlackArch Linux](https://github.com/morteerror404/MyArch-Blackarch)
 
 - 🌱 Estou estudando **Linguagens de Baixo Nível, Segurança em Cloud, Injeção de Processos**
 
