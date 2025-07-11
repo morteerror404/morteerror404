@@ -6,7 +6,7 @@
 
 - 🔭 Atualmente Trabalhando em [Uma documentação universal para pentest]([https://github.com/morteerror404/CMDB](https://github.com/morteerror404/BibliaDoPentestBR))
 
-- 🌱 Estou estudando ** Linguagens de Baixo Nível, Segurança em Cloud, Injeção de Processos**
+- 🌱 Estou estudando **Linguagens de Baixo Nível, Segurança em Cloud, Injeção de Processos**
 
 - 👯 Áreas de Interesse **Threat Inteligence, Low Level Pentest, IOT Pentest, SIEM & IAM Manager**
 
